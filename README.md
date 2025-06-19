@@ -6,8 +6,6 @@ Automation and Software Engineering
 
 * 🌍  I'm based in Edinburgh
 * ✉️  You can contact me at [u07gb22@abdn.ac.uk](mailto:u07gb22@abdn.ac.uk)
-* 🚀  I'm currently working on [MousePilot animal colony management software](http://github.com/GeoffreyBush/mouse_pilot_postgresql)
-* 🧠  I'm learning PLC programming, Django
 
 ### Skills
 
